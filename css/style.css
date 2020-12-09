@@ -1,0 +1,12 @@
+body{
+    background-image: url(" download.jpg ");
+    background-color: #332f2f;
+    background-repeat: no-repeat;
+    background-size: 1700px 900px;
+    background-blend-mode: overlay;
+}
+
+.container{
+    padding-top: 10px;
+    text-align: center;
+}
